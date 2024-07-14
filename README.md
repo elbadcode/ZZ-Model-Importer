@@ -1,4 +1,6 @@
 <!-- EN | [中文](CN_README.md) -->
+# Forked version for ReShade compatible Anime Games Mod Loader - coming soon
+minimal changes but I will be using my own launcher which already functions reasonably well with ZZZ and SRMI. Please refer to parent repo for game specific issues 
 
 # Zenless-Zone-Model-Importer (ZZMI)
 Tools and instructions for importing custom models into ZZZ.
